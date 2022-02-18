@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ancient Corinth - Peirene Fountain
+* source:	https://sketchfab.com/3d-models/ancient-corinth-peirene-fountain-d7a85f6096584f02817ff255c16608e0
+* author:	fuzzelhjb (https://sketchfab.com/fuzzelhjb)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ancient Corinth - Peirene Fountain" (https://sketchfab.com/3d-models/ancient-corinth-peirene-fountain-d7a85f6096584f02817ff255c16608e0) by fuzzelhjb (https://sketchfab.com/fuzzelhjb) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
